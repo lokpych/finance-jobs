@@ -1,0 +1,10 @@
+{
+    "new_days":7,
+    "title_keywords":[],
+    "exclude_title_keywords":[],
+    "location_keywords":[],
+    "keep_unknown_locations": true, 
+    "max_jobs_per_source": 2000,
+    "threads": 8,
+    "timeout_seconds":25
+}
