@@ -12,8 +12,8 @@
   "category": "Traditional asset management / fundamental equities",
   "ats": "workday",
   "careers_url": "https://wellington.wd5.myworkdayjobs.com/External",
-  "jobs": 5,
-  "status": "error: RuntimeError: gave up on https://wellington.wd5.myworkdayjobs.com/wday/cxs/wellington/External/jobs"
+  "jobs": 0,
+  "status": "error: RuntimeError: gave up on https://wellington.wd5.myworkdayjobs.com/wday/cxs/wellington/Campus/jobs"
  },
  {
   "company": "Fidelity",
@@ -556,7 +556,7 @@
   "category": "Hedge funds / multi-strategy / event-driven",
   "ats": "greenhouse",
   "careers_url": "https://job-boards.greenhouse.io/schonfeld",
-  "jobs": 67,
+  "jobs": 66,
   "status": "ok"
  },
  {
@@ -588,7 +588,7 @@
   "category": "Hedge funds / multi-strategy / event-driven",
   "ats": "greenhouse",
   "careers_url": "https://job-boards.greenhouse.io/quberesearchandtechnologies",
-  "jobs": 209,
+  "jobs": 207,
   "status": "ok"
  },
  {
@@ -900,7 +900,7 @@
   "category": "Hedge funds / macro / systematic / quantitative",
   "ats": "greenhouse",
   "careers_url": "https://job-boards.greenhouse.io/mangroup",
-  "jobs": 66,
+  "jobs": 64,
   "status": "ok"
  },
  {
@@ -1140,7 +1140,7 @@
   "category": "Proprietary trading / market making",
   "ats": "greenhouse",
   "careers_url": "https://job-boards.greenhouse.io/imc",
-  "jobs": 149,
+  "jobs": 151,
   "status": "ok"
  },
  {
@@ -1148,7 +1148,7 @@
   "category": "Proprietary trading / market making",
   "ats": "greenhouse",
   "careers_url": "https://job-boards.greenhouse.io/drweng",
-  "jobs": 149,
+  "jobs": 148,
   "status": "ok"
  },
  {
@@ -1188,7 +1188,7 @@
   "category": "Proprietary trading / market making",
   "ats": "greenhouse",
   "careers_url": "https://job-boards.greenhouse.io/flowtraders",
-  "jobs": 44,
+  "jobs": 45,
   "status": "ok"
  },
  {
@@ -1276,7 +1276,7 @@
   "category": "Investment banking / institutional brokerage",
   "ats": "oracle",
   "careers_url": "https://careers.jpmorgan.com",
-  "jobs": 2000,
+  "jobs": 1999,
   "status": "ok"
  },
  {
@@ -1396,8 +1396,8 @@
   "category": "Investment banking / institutional brokerage",
   "ats": "workday",
   "careers_url": "https://moelis.wd1.myworkdayjobs.com/Experienced-Hires",
-  "jobs": 0,
-  "status": "error: RuntimeError: gave up on https://moelis.wd1.myworkdayjobs.com/wday/cxs/moelis/University-Hires/jobs"
+  "jobs": 1,
+  "status": "error: RuntimeError: gave up on https://moelis.wd1.myworkdayjobs.com/wday/cxs/moelis/Experienced-Hires/jobs"
  },
  {
   "company": "PJT Partners",
@@ -1436,8 +1436,8 @@
   "category": "Investment banking / institutional brokerage",
   "ats": "workday",
   "careers_url": "https://guggenheim.wd1.myworkdayjobs.com/Guggenheim_Careers",
-  "jobs": 4,
-  "status": "error: RuntimeError: gave up on https://guggenheim.wd1.myworkdayjobs.com/wday/cxs/guggenheim/Guggenheim_Careers/jobs"
+  "jobs": 0,
+  "status": "error: RuntimeError: gave up on https://guggenheim.wd1.myworkdayjobs.com/wday/cxs/guggenheim/Guggenheim_Careers_Campus/jobs"
  },
  {
   "company": "Rothschild & Co",
@@ -1476,16 +1476,16 @@
   "category": "Investment banking / institutional brokerage",
   "ats": "workday",
   "careers_url": "https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers",
-  "jobs": 0,
-  "status": "error: RuntimeError: gave up on https://pipersandler.wd501.myworkdayjobs.com/wday/cxs/pipersandler/Piper_Sandler_Careers/jobs"
+  "jobs": 45,
+  "status": "ok"
  },
  {
   "company": "Raymond James",
   "category": "Investment banking / institutional brokerage",
   "ats": "workday",
   "careers_url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers",
-  "jobs": 9,
-  "status": "error: RuntimeError: gave up on https://raymondjames.wd1.myworkdayjobs.com/wday/cxs/raymondjames/RaymondJamesCareers/jobs"
+  "jobs": 0,
+  "status": "error: RuntimeError: gave up on https://raymondjames.wd1.myworkdayjobs.com/wday/cxs/raymondjames/RaymondJamesEarlyCareers/jobs"
  },
  {
   "company": "Oppenheimer",
@@ -1508,7 +1508,7 @@
   "category": "Investment banking / institutional brokerage",
   "ats": "greenhouse",
   "careers_url": "https://job-boards.greenhouse.io/lincolninternational",
-  "jobs": 40,
+  "jobs": 44,
   "status": "ok"
  },
  {
@@ -1748,16 +1748,16 @@
   "category": "Private equity / private credit / alternatives",
   "ats": "workday",
   "careers_url": "https://antares.wd5.myworkdayjobs.com/antares",
-  "jobs": 17,
-  "status": "ok"
+  "jobs": 0,
+  "status": "error: RuntimeError: gave up on https://antares.wd5.myworkdayjobs.com/wday/cxs/antares/antares/jobs"
  },
  {
   "company": "Cerberus",
   "category": "Private equity / private credit / alternatives",
   "ats": "workday",
   "careers_url": "https://cerberus.wd1.myworkdayjobs.com/CerberusCareers",
-  "jobs": 0,
-  "status": "error: RuntimeError: gave up on https://cerberus.wd1.myworkdayjobs.com/wday/cxs/cerberus/CerberusCareers/jobs"
+  "jobs": 3,
+  "status": "ok"
  },
  {
   "company": "Fortress",
@@ -1820,7 +1820,7 @@
   "category": "Private equity / private credit / alternatives",
   "ats": "greenhouse",
   "careers_url": "https://job-boards.greenhouse.io/stepstone",
-  "jobs": 65,
+  "jobs": 64,
   "status": "ok"
  },
  {
@@ -2092,7 +2092,7 @@
   "category": "Institutional allocators / OCIO / investment consulting",
   "ats": "greenhouse",
   "careers_url": "https://job-boards.greenhouse.io/icapitalnetwork",
-  "jobs": 234,
+  "jobs": 233,
   "status": "ok"
  },
  {
@@ -2348,7 +2348,7 @@
   "category": "Independent investment research",
   "ats": "greenhouse",
   "careers_url": "https://job-boards.greenhouse.io/thirdbridge",
-  "jobs": 149,
+  "jobs": 154,
   "status": "ok"
  },
  {
@@ -2364,7 +2364,7 @@
   "category": "Independent investment research",
   "ats": "greenhouse",
   "careers_url": "https://job-boards.greenhouse.io/alphasights",
-  "jobs": 70,
+  "jobs": 69,
   "status": "ok"
  },
  {
@@ -2620,7 +2620,7 @@
   "category": "Exchanges / trading platforms / financial infrastructure",
   "ats": "greenhouse",
   "careers_url": "https://job-boards.greenhouse.io/carta",
-  "jobs": 81,
+  "jobs": 82,
   "status": "ok"
  },
  {
@@ -2628,7 +2628,7 @@
   "category": "Exchanges / trading platforms / financial infrastructure",
   "ats": "greenhouse",
   "careers_url": "https://job-boards.greenhouse.io/addepar1",
-  "jobs": 120,
+  "jobs": 119,
   "status": "ok"
  },
  {
@@ -2868,8 +2868,8 @@
   "category": "Endowments / foundations / pensions / sovereign wealth",
   "ats": "workday",
   "careers_url": "https://fordfoundation.wd1.myworkdayjobs.com/FordFoundationCareerPage",
-  "jobs": 7,
-  "status": "ok"
+  "jobs": 0,
+  "status": "error: RuntimeError: gave up on https://fordfoundation.wd1.myworkdayjobs.com/wday/cxs/fordfoundation/FordFoundationCareerPage/jobs"
  },
  {
   "company": "Rockefeller Foundation",
@@ -2948,7 +2948,7 @@
   "category": "Endowments / foundations / pensions / sovereign wealth",
   "ats": "workday",
   "careers_url": "https://cppib.wd10.myworkdayjobs.com/cppinvestments",
-  "jobs": 35,
+  "jobs": 33,
   "status": "ok"
  }
 ]
